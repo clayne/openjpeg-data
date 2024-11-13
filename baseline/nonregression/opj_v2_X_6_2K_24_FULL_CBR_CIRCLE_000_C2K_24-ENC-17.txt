@@ -36,7 +36,7 @@ Codestream info from main header: {
 			 qmfbid=0
 			 preccintsize (w,h)=(7,7) (8,8) (8,8) (8,8) (8,8) (8,8) 
 			 qntsty=2
-			 numgbits=2
+			 numgbits=1
 			 stepsizes (m,e)=(1824,18) (1776,18) (1776,18) (1728,18) (1792,17) (1792,17) (1760,17) (1872,16) (1872,16) (1896,16) (5,14) (5,14) (71,14) (2003,14) (2003,14) (1890,14) 
 			 roishift=0
 		 }
@@ -49,7 +49,7 @@ Codestream info from main header: {
 			 qmfbid=0
 			 preccintsize (w,h)=(7,7) (8,8) (8,8) (8,8) (8,8) (8,8) 
 			 qntsty=2
-			 numgbits=2
+			 numgbits=1
 			 stepsizes (m,e)=(1824,18) (1776,18) (1776,18) (1728,18) (1792,17) (1792,17) (1760,17) (1872,16) (1872,16) (1896,16) (5,14) (5,14) (71,14) (2003,14) (2003,14) (1890,14) 
 			 roishift=0
 		 }
@@ -62,7 +62,7 @@ Codestream info from main header: {
 			 qmfbid=0
 			 preccintsize (w,h)=(7,7) (8,8) (8,8) (8,8) (8,8) (8,8) 
 			 qntsty=2
-			 numgbits=2
+			 numgbits=1
 			 stepsizes (m,e)=(1824,18) (1776,18) (1776,18) (1728,18) (1792,17) (1792,17) (1760,17) (1872,16) (1872,16) (1896,16) (5,14) (5,14) (71,14) (2003,14) (2003,14) (1890,14) 
 			 roishift=0
 		 }
